@@ -1,3 +1,3 @@
 # Ovoshch-Loops
 drummachine amazing
-check this https://johnnyborjomi.github.io/Ovoshch-Loops/
+check this https://johnnyborjomi.github.io/DrumMachine/.
